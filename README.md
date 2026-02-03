@@ -106,7 +106,7 @@ jupyter notebook
 ## 👤 Autor
 
 **Luis López**
-- GitHub: [@tu-usuario](https://github.com/luis24lopez)
+- GitHub: [@luis24lopez](https://github.com/luis24lopez)
 
 ## 📄 Licencia
 
